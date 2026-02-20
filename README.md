@@ -1,37 +1,81 @@
-# powerbi-student-enrollment-analysis
-Student enrollment, course revenue, and certificate analysis using Power BI
+# 📊 Power BI – Student Enrollment Analysis
 
-Tools Used:
-- Power BI
-- Power Query
+This project analyzes **student enrollment trends, course-wise revenue, and certificate issuance status** using **Power BI**.  
+It demonstrates how raw educational data can be transformed into **meaningful insights** to support institutional decision-making.
 
-Dataset Description:
-The dataset contains student enrollment details including age, course selected, fees paid, city, state, and certificate issuance status. Data cleaning and transformation were performed using Power Query.
+---
 
-Data Cleaning Steps:
-- Converted columns to appropriate data types
-- Removed inconsistencies
-- Created a new column for certificate issuance status
+## 🛠️ Tools Used
+- **Power BI** – Data modeling, analysis, and dashboard creation  
+- **Power Query** – Data cleaning and transformation  
 
-Key KPIs:
-- Total Students: 772
-- Total Revenue: ₹ 6,878K
-- Certificates Issued: 504
+---
 
-Visualizations:
-- KPI cards for total students and total revenue
-- Bar chart showing fees collected by course
-- Column chart for monthly course enrollment
-- Gauge chart representing certificates issued
-- Donut chart showing age group distribution
-- Slicers for Year, City, and Course filtering
+## 📂 Dataset Description
+The dataset contains student enrollment details including:
+- Student age and age group  
+- Course selected  
+- Fees paid  
+- City and state  
+- Certificate issuance status  
 
-Key Insights:
-- Students aged 20–29 form the majority of enrollments
-- Certain technical courses generate higher revenue
-- Not all enrolled students received certificates
-- Student enrollment varies significantly by month
-- Major enrollments come from cities like Madurai, Tiruchirappalli, and Pondicherry
+All data preparation and transformation were performed using **Power Query**.
 
-Conclusion:
-This dashboard helps educational institutes track student enrollment trends, revenue performance, and certification status, enabling data-driven decision-making.
+---
+
+## 🧹 Data Cleaning & Preparation
+The following steps were performed:
+- Converted columns to appropriate data types  
+- Removed inconsistencies and corrected invalid values  
+- Created a derived column to identify **certificate issuance status**  
+- Prepared clean, analysis-ready data for reporting  
+
+---
+
+## 📈 Key KPIs
+- **Total Students:** 772  
+- **Total Revenue:** ₹ 6,878K  
+- **Certificates Issued (CountYes):** 504  
+
+---
+
+## 📊 Dashboard Visualizations
+The Power BI dashboard includes:
+- KPI cards showing **total students** and **total revenue**  
+- Bar chart for **fees collected by course**  
+- Column chart showing **monthly enrollment trends**  
+- Gauge chart representing **certificates issued (CountYes)**  
+- Donut chart showing **age group distribution**  
+- Interactive slicers for **Year, City, and Course**  
+
+---
+
+## 🔍 Key Insights
+- Students aged **20–29** represent the majority of enrollments  
+- Certain **technical courses** generate higher revenue  
+- Not all enrolled students have received certificates  
+- Enrollment shows noticeable variation across months  
+- Major enrollments come from **Madurai, Tiruchirappalli, and Pondicherry**  
+
+---
+
+## 📊 Power BI Dashboard Preview
+Below is a preview of the Power BI dashboard used in this analysis:
+
+![Student Enrollment Dashboard](dashboard_overview.png)
+
+---
+
+## 🚀 Conclusion
+This dashboard enables educational institutions to:
+- Monitor student enrollment patterns  
+- Track course-wise revenue performance  
+- Understand certificate issuance status  
+
+It supports **data-driven planning and strategic decision-making**.
+
+---
+
+## 📌 Author
+**Shabeer Ahamed**  
+Data Analyst Aspirant | Power BI | SQL | Python | Excel
