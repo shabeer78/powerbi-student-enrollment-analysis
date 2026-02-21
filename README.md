@@ -62,7 +62,7 @@ The Power BI dashboard includes:
 ## 📊 Power BI Dashboard Preview
 Below is a preview of the Power BI dashboard used in this analysis:
 
-dashboard_overview.png
+![Power BI Dashboard Preview](dashboard_overview.png)
 
 ---
 
