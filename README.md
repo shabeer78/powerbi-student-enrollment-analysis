@@ -35,7 +35,7 @@ The following steps were performed:
 ## 📈 Key KPIs
 - **Total Students:** 772  
 - **Total Revenue:** ₹ 6,878K  
-- **Certificates Issued (CountYes):** 504  
+- **Certificates Issued:** 504  
 
 ---
 
