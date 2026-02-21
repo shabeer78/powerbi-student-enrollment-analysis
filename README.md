@@ -62,7 +62,7 @@ The Power BI dashboard includes:
 ## 📊 Power BI Dashboard Preview
 Below is a preview of the Power BI dashboard used in this analysis:
 
-!([dashboard_overview.png](https://github.com/shabeer78/powerbi-student-enrollment-analysis/blob/f50ba0af80057a52a9a999099438d5bcca0ba8ff/dashboard_overview.png))
+([dashboard_overview.png](https://github.com/shabeer78/powerbi-student-enrollment-analysis/blob/f50ba0af80057a52a9a999099438d5bcca0ba8ff/dashboard_overview.png))
 
 ---
 
